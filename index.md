@@ -7,11 +7,11 @@ some stuff__
 
 some freaky stuff____
 
-master's thesis
+master's thesis:
 
 not yet available for public
 
-bachelor's thesis
+bachelor's thesis:
 
 <a href="https://github.com/cbrueck/cbrueck.github.io/blob/master/20120809_BSc.pdf">Untersuchung zur biogeographischen Ausbreitung zweier Quellschneckenarten
 (Bythinella compressa & Bythinella dunkeri)
