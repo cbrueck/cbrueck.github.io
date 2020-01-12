@@ -9,7 +9,7 @@ some freaky stuff____
 
 bachelor's thesis
 
-<a href="https://github.com/cbrueck/cbrueck.github.io/blob/master/20120809_BSc.pdf">Untersuchung zur biogeographischen Ausbreitung zweier Quellschneckenarten
+<a href="https://github.com/cbrueck/cbrueck.github.io/raw/master/20120809_BSc.pdf">Untersuchung zur biogeographischen Ausbreitung zweier Quellschneckenarten
 (Bythinella compressa & Bythinella dunkeri)
 an den Arealgrenzen (in Mittelhessen)</a>
 
