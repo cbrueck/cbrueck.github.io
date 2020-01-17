@@ -7,7 +7,6 @@
 <hr>
 #miscellaneous
 
-
 master's thesis:
 
 not yet available for public
@@ -20,7 +19,6 @@ an den Arealgrenzen (in Mittelhessen)</a>
 
 <hr>
 #hamradio
-
 
 Projects: <a href="https://cbrueck.github.io/nprm-gui/">->https://cbrueck.github.io/nprm-gui/</a>
 
