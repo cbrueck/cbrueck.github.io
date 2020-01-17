@@ -1,11 +1,11 @@
-some stuff__
+#pics and #videos__
 
 <a href="https://drive.google.com/folderview?id=1-TRLfKbDtqdfGKwkg6PhHh2yTIQn4VbY">->Pictures on Google Drive</a>
 
 <a href="https://drive.google.com/folderview?id=1hKsZ2hgbk1v9YC9v9xJAfWOuyTgJCmjQ">->Videos on Google Drive</a>
 
 
-some freaky stuff____
+#miscellaneous____
 
 master's thesis:
 
@@ -18,8 +18,12 @@ bachelor's thesis:
 an den Arealgrenzen (in Mittelhessen)</a>
 
 
-ham radio______
+#hamradio______
+
+Projects: <a href="https://cbrueck.github.io/nprm-gui/">->https://cbrueck.github.io/nprm-gui/</a>
 
 Callsign: DO1CBX
 
 Active on DB0HRB and DB0UI / DB0MDX
+
+
