@@ -1,11 +1,11 @@
-#pics and #videos__
+#pics and #videos
 
 <a href="https://drive.google.com/folderview?id=1-TRLfKbDtqdfGKwkg6PhHh2yTIQn4VbY">->Pictures on Google Drive</a>
 
 <a href="https://drive.google.com/folderview?id=1hKsZ2hgbk1v9YC9v9xJAfWOuyTgJCmjQ">->Videos on Google Drive</a>
 
-
-#miscellaneous____
+<hr>
+#miscellaneous
 
 master's thesis:
 
@@ -17,8 +17,8 @@ bachelor's thesis:
 (Bythinella compressa & Bythinella dunkeri)
 an den Arealgrenzen (in Mittelhessen)</a>
 
-
-#hamradio______
+<hr>
+#hamradio
 
 Projects: <a href="https://cbrueck.github.io/nprm-gui/">->https://cbrueck.github.io/nprm-gui/</a>
 
